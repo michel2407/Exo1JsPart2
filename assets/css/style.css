@@ -1,0 +1,15 @@
+img{
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 600px;
+}
+h1{
+  text-align: center;
+  color: white;
+  background-color: #68d687;
+  margin: 20px;
+}
